@@ -1,0 +1,21 @@
+cd //change directory
+ls //list directory
+pwd // show directory of file
+mkdir //create new file
+mv //change name of file filewanttochange newfilename
+cp //filewanttocopy filenameofcopiedfile 
+rm //(delete)
+
+git //version control system, keeps track of the changes in the files, allows to revert set of changes
+git init
+git status //tells you what is tracked, untracked, modified
+git add
+git commit //commit message, to let people know what your code is about, e.g.: add file fruit 
+
+text editors
+gedit
+
+vim
+get in insert mode, press i.
+* //everything
+
